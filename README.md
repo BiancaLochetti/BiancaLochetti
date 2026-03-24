@@ -2,6 +2,8 @@
 
 💻 **Information Technology Technician** graduated from **IFSP – Campinas**  
 🎓 **Former IT Intern at UNICAMP**
+🎓 **Computer Engineering Student**
+
 
 I have experience in **IT support, hardware maintenance, networking**, and **software development** through academic and personal projects.  
 I enjoy solving problems, helping people, and building reliable and well-structured technical solutions.
